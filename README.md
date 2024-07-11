@@ -1,2 +1,5 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+# BELAJAR DART DASAR
+
+## resources: 
+- [TUTORIAL DART DASAR PROGRAMMER ZAMAN NOW](https://www.youtube.com/watch?v=-mzXdI27tyk&list=PL-CtdCApEFH9qVH17yCbWZICYopHj4vhn
+)
